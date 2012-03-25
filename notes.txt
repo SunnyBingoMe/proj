@@ -1,0 +1,12 @@
+mxmlc.exe xxx.as
+adobe flex_sdk_4.6 (400MB)
+
+factors vs metrics.
+
+risks:
+	resolution
+
+
+ns.buffersize
+ns.play
+
